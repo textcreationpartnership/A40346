@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The testimony of God to those rulers, teachers, and people of this present age ... wherein Gods controversie with them is plainly demonstrated / opened and given by the spirit of truth, which is made mainfest in that earthen vessel which is called George Fox the younger.</title>
+            <author>Fox, George, d. 1661.</author>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40346</idno><idno type="EEBO-CITATION">10329767</idno>
+  <idno type="VID">44874</idno>
+  <idno type="EEBO-PROQUEST">2240951588</idno>
+  
+            <idno type="STC">Wing F2010</idno>
+            <idno type="STC">ESTC R28022</idno>
+            <idno type="OCLC">10329767</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40346)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44874)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The testimony of God to those rulers, teachers, and people of this present age ... wherein Gods controversie with them is plainly demonstrated / opened and given by the spirit of truth, which is made mainfest in that earthen vessel which is called George Fox the younger.</title>
+                  <author>Fox, George, d. 1661.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:44874:1"/>
+            <pb n="1" facs="tcp:44874:1"/>
+            <head>THE Testimony of GOD To those <hi>Rulers, Teachers</hi> and <hi>People</hi> of this present Age, where the <hi>Headship</hi> of the <hi>Church</hi> is given to <hi>Man,</hi> and to such as strive to have it so, and to those that set themselves in the seat of God, by taking upon them that which properly belongs to God and Christ, who are one. Wherein Gods <hi>Controversie</hi> with them is <hi>plainly</hi> demonstrated. <hi>Opened</hi> and given by the Spirit of Truth, which is made ma<g ref="char:EOLhyphen"/>nifest in that earthen vessel which is called <hi>George Fox</hi> the younger.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Earken O ye <hi>Kings,</hi> and Give ear ye <hi>Rulers, Teachers</hi> and Peo<g ref="char:EOLhyphen"/>ple of all sorts (who are striving against the <hi>Spirit of God</hi> and its workings:) The Lords <hi>Controversie</hi> is great this day, and few there be that rightly understand it, therefore are ye <hi>confounded, broken and breaking</hi> one of another, <hi>and cannot be healed,</hi> until y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> return to, &amp; receive &amp; obey that which will shew you with what Gods con<g ref="char:EOLhyphen"/>troversie is: therefore consider this, <hi>The inspiration of the Almighty giveth understanding, Job</hi> 32.8. Yea, the life of the Immortal word, which is <hi>the Right of men, John</hi> 1.4. giveth to understand the mind of the Eternal God; There<g ref="char:EOLhyphen"/>fore to the Light which the word hath enlightned you withal, take heed, <hi>John</hi> 1.9. for that is the faithful witnesse for God, and to that <hi>in you all</hi> (who shall hear the Testimony which God hath given me to bear shall I be made manifest; for <hi>that</hi> shall answer to the words of the <hi>Most High,</hi> which I have to utter; Therefore <hi>let all flesh be silent,</hi> that Truth may take place, and that the words of the Holy One may be heard and received.</p>
+            <p>
+               <hi>Thus saith the Lord God,</hi> My Controversie hath not been, nor <hi>is not with man</hi> any further then as he is <hi>departed from me,</hi> and joyned to, and <hi>become one with the man of sin,</hi> that <hi>wicked</hi> one, the son of <hi>perdition,</hi> who is exalted <hi>in man above me the Eternal God,</hi> and opposeth me, and <hi>sitteth in my Temple,</hi>
+               <pb n="2" facs="tcp:44874:2"/>shewing himself to be God, in taking upon him that which properly belon<g ref="char:EOLhyphen"/>geth unto me, for he commands and leads them with whom my contro<g ref="char:EOLhyphen"/>versie is, into whatsoever and whithersoever he pleaseth, and they are be<g ref="char:EOLhyphen"/>come subjects unto <hi>his Kingdom,</hi> so that they will not that I should <hi>Reign over them:</hi> but they have taken councel of my <hi>Adversary,</hi> who hath taught them also to take (as it were) my Honour <hi>(which I will not give to another)</hi> unto themselves: and so they are become <hi>one</hi> with my <hi>Adversary:</hi> and by his power they also (in many things) have <hi>set</hi> themselves <hi>in my stead,</hi> in ta<g ref="char:EOLhyphen"/>king upon them to do things which did properly belong unto me, and they in thus doing have <hi>sleighted</hi> and <hi>rejected</hi> the thing that I have done; and thus the <hi>Abomination</hi> which maketh <hi>desolate, standeth</hi> in the place where it ought not; <hi>For which cause I will visit saith the Lord God.</hi>
+            </p>
+            <p>And now <hi>You</hi> with whom Gods <hi>Controversie</hi> is, (who have given the head<g ref="char:EOLhyphen"/>ship of the Church to man) that you may further see your <hi>errour.</hi> Mark and consider these things, It did properly belong to the mighty Eternal God, to Ordain a Head for his Church, and he unalterably Ordained <hi>one Head thereof,</hi> which is Christ, <hi>the second Adam, the Lord from Heaven, the quickening Spirit:</hi> Yea, <hi>he gave him to be Head of the Body, which is the Church, the fulnesse of him that filleth all in all, that he in all things might have the prehe<g ref="char:EOLhyphen"/>minence, in whom all fulness dwells,</hi> 1 Col. 18, 19. Ephes. 5.23. &amp; 1.22, 23.</p>
+            <p>And by the appointment of the Father, <hi>he</hi> giveth forth all the Lawes and Ordinances which his <hi>Church</hi> (that is <hi>the Congregation of the Righteous</hi>) are now to observe; and <hi>whosoever</hi> will not hear him <hi>in all things,</hi> and fol<g ref="char:EOLhyphen"/>low <hi>his</hi> leadings, and obey <hi>his</hi> voice, are to be cut off; <hi>For all judgement is committed unto him,</hi> John 5.22.27.</p>
+            <p>But many of you who (in several Nations) are called <hi>Christians</hi> (with whom the Lords controversie is great, unto the dishonour of God) You have taken upon you to Ordain others <hi>Heads</hi> of the Church <hi>then Christ,</hi> and that they shall give forth <hi>Laws</hi> &amp; <hi>Ordinances</hi> for the <hi>Church</hi> to observe, and they that will not hear your Heads, &amp; observe their Laws and Ordinances, you will cut them off, or persecute them; and in thus doing you have slighted and rejected the thing that God hath done, and <hi>ye have set your selves in his stead;</hi> And <hi>this</hi> is a great cause of Gods <hi>controversie with this Age,</hi> and until this <hi>abomination</hi> be removed and broken down, God will remove and break down all in whomsoever it doth reside, and all such as would uphold it, whatsoever their names be called; For whosoever will strive to uphold that Authority in themselves or others, which properly belongs to God and Christ (who are one) shall not be able to stand in this the day of Gods controversie; neither can the Nations be settled in <hi>true peace,</hi> un<g ref="char:EOLhyphen"/>till <hi>that</hi> be given up to <hi>Christ,</hi> which properly unto him belongs, and is his <hi>Right,</hi> for though the Lord hath long born with great patience, yet now
+<pb n="3" facs="tcp:44874:2"/>the time hasteth, that the Heir must be possest of that which the Father hath given unto him, and they that will not freely give up to him his due, must be broken.</p>
+            <p>And now, <hi>O England,</hi> to Thee I speak (mark) this did not serve to end the Controversie of God with Thee, when thou didst take the Head<g ref="char:EOLhyphen"/>ship of the Church from the <hi>Pope,</hi> and gave it to the (outward) <hi>King;</hi> Neither did that end Gods Controversie with Thee, when thou didst take it from thy <hi>King</hi> again, and gave the Nature or Power of the Head-ship (though not the Name) unto an <hi>Assembly</hi> of <hi>Priests</hi> called the <hi>Synod,</hi> whom thou Authorizedst to give forth directions and Ordinances for the Church to observe, and if after thy long Changing of it thus, one from another, thou now give it to thy (outward) <hi>King</hi> again, (as many in thee strives to do) this will not end Gods Controversie with thee neither; For these things do not at all answer the intent of God, for the Lord will not own, that a <hi>King</hi> should be called the <hi>Supream Head of a Church,</hi> no more then he will own that a <hi>Pope</hi> should be so called; Neither will he own any to exercise the Office of <hi>Headship</hi> in his Church, <hi>but Christ only,</hi> Whom he hath given <hi>unalterably</hi> to be the <hi>Head</hi> thereof; Therefore whe<g ref="char:EOLhyphen"/>ther it be <hi>Pope, King, Priests,</hi> or any others, that will <hi>not submit to Christ,</hi> and own <hi>Him alone</hi> to be the <hi>Head</hi> of the Church, must be slain by the Sword of his Justice; Therefore <hi>O England,</hi> take heed what thou dost, and <hi>provoke not the Lord yet further</hi> against thee in this particular, for, <hi>until the Head-ship be wholly given up to Christ, Gods Controversie cannot cease.</hi>
+            </p>
+            <p>
+               <hi>And furthermore,</hi> it doth properly belong unto <hi>God and Christ</hi> (who are one) to make and <hi>Ordain</hi> whomsoever they Please to be <hi>Ministers,</hi> and those Ministers are to follow those orders and directions, and to declare <hi>those words</hi> unto the People (and not what they will themselves) which the <hi>most High gives unto them,</hi> and they are to go to such places as <hi>He</hi> sends them unto, to declare <hi>His</hi> will, and they are to receive that for their Labour which <hi>He</hi> alloweth them, and they are to abide in those places, observing those orders and directions which he gives unto them, and they are not to remove, but at <hi>His</hi> pleasure, and as <hi>He</hi> gives them free<g ref="char:EOLhyphen"/>dom, or by <hi>His</hi> order, <hi>which they must observe.</hi>
+            </p>
+            <p>But in these things also, <hi>Man</hi> hath set himself in the <hi>stead of God;</hi> For men in these <hi>Nations</hi> have made, and some yet do make and <hi>ordain</hi> whomsoever they please to be <hi>Ministers,</hi> and those Ministers are to fol<g ref="char:EOLhyphen"/>low those orders and directions, and to speak those words to the People which <hi>Man</hi> giveth unto them, (and also they may in some things speak more if they will) and they are to go to such places as <hi>man</hi> sends them un<g ref="char:EOLhyphen"/>to, and there to declare that which <hi>man</hi> in his will hath prescribed and set down; And they are to receive for this their Labour that which man al<g ref="char:EOLhyphen"/>loweth them (with what more they can get to satisfie their greedy minds)
+<pb n="4" facs="tcp:44874:3"/>and they are to abide in those places, observing those orders and directi<g ref="char:EOLhyphen"/>ons which <hi>man</hi> gives unto them, and they are not to remove but at <hi>mans pleasure,</hi> by his order, or as he gives them freedom.</p>
+            <p>And thus hath <hi>man, even the man of sin,</hi> set himself in the stead of God, and would force <hi>all to bow unto him,</hi> and so man in this state hath rejected the will of God, and his work; for such a one whom God makes a Mi<g ref="char:EOLhyphen"/>nister, and sends unto places to declare his will (unto the People, as he hath received it from God) such a one is counted a <hi>Vagabond</hi> and a distur<g ref="char:EOLhyphen"/>ber of the peace, and <hi>persecuted</hi> by such as are <hi>exalted</hi> in their fleshly minds, <hi>above</hi> the witnesse of God; And for this cause also is Gods <hi>Contro<g ref="char:EOLhyphen"/>versie</hi> with <hi>Nations,</hi> and they cannot be established in true peace, until they give unto <hi>God and Christ</hi> that which to them belongs, (which they have held from God by usurpation) therefore whether it be <hi>Popes</hi> or <hi>Kings</hi> or <hi>Parliaments,</hi> or any other men that will <hi>assume this to themselves</hi> which alone belongs to God and Christ, <hi>they must and shall be broken,</hi> let their strength be never so great: For the <hi>Lord</hi> (who is mighty) will take to himself this <hi>his proper Right in making Ministers</hi> which shall observe his Will, and he will provide for them, and such as are made by man he will <hi>Con<g ref="char:EOLhyphen"/>found;</hi> Therefore O <hi>Nations,</hi> take heed what you do, and run not your selves any more into these things, least you further increase Gods anger against you.</p>
+            <p>And as <hi>Christ</hi> is the <hi>Anthor</hi> of the true <hi>Faith</hi> and not man, so he is the Defender of it, and not man; Therefore that <hi>Title</hi> must be given unto <hi>Him,</hi> and not unto man, or else Gods Controversie cannot cease.</p>
+            <p>Again, it is Gods proper Right to give Laws unto man, <hi>Isa.</hi> 33.22. <hi>For their is one Law-giver, who is able to save and to destroy,</hi> Ia. 4.12. And the <hi>Law is not made for the Righteous, but for the unrighteous,</hi> 1 Tim. 1 9. <hi>And the Law is to go forth of Zion,</hi> Mica 4.2. Isa. 2.3. Now in this particular also, man hath set himself in the seat of God, and so hath dishonoured the <hi>one Law-giver,</hi> by setting up many law givers, who not being guided by the pure Spirit of the Lord, have made Laws contrary to the Will of God, whereby the Righteous have been Punished and oppressed. Now in this particular, man hath exceedingly corrupted his wayes, for which cause-Gods Controversie is exceeding great, and until man submit to the <hi>one Law-giver</hi> in this particular also, <hi>(who is able both to save and to destroy)</hi> Gods Controversie cannot cease; for the Law which God gives, is not against the Righteous, but against the unrighteous.</p>
+            <p>But how are the Laws of these Nations like to be such, (let the witnesse of God in you all answer) seeing by man it is given into the hands of man in such a manner as it is to make Lawes, (Mark.) Have you not read in the Scriptures of Truth, that the Flock of Christ <hi>is a little Flock,</hi>
+               <pb n="5" facs="tcp:44874:3"/>Luke 12.32. And that, <hi>though Israeh be as the sand of the Sea, yet but a rem<g ref="char:EOLhyphen"/>nant shall be saved,</hi> Isa. 10 22. Rom. 9.27. And again, <hi>strait is the way, and narrow is the Gate that leadeth unto Life, and few there be that find it,</hi> (mark that) <hi>because broad is the way and wide is the Gate that leadeth to de<g ref="char:EOLhyphen"/>struction, and many there be that go in thereat,</hi> Mat. 7.13, 14. Now mark and consider these things, seeing that the Righteous are fewer in number then the unrighteous, &amp; that the <hi>Law makers</hi> are chosen by the <hi>most voices;</hi> (and that of the richest people out wardly) how are the Righteous like to be preserved in outward freedom by the lawes that are so made? <hi>Doth not the World love his own?</hi> John 15.19. And will it not provide for its own life and liberty? And is the life &amp; liberty of the Righteous one with the world, (Read Wisdom, the 2 Chap.) Will not that which is for the freedom of the one, be for the bondage of the other; Oh! the Lord hath be<g ref="char:EOLhyphen"/>held this abomination, and his Soul abhors it, and his controversie is with the Nations, because of the grieveous <hi>Oppression, Oathes,</hi> and <hi>Vio<g ref="char:EOLhyphen"/>lence,</hi> which fills the Earth partly by this means; Oh! how do the rich oppresse the poor? and draw them before the Judgement seats, <hi>Ja.</hi> 2.6. And how do the haughty vaunt themselves over the meek? And how is Judgement turned backward? For he that departeth from ini<g ref="char:EOLhyphen"/>quity maketh himself a prey to this Generation, <hi>Isa</hi> 59.14, 15. And though several overturnings have been, yet is iniquity stil at a great height, and increaseth exceedingly; And what will it advantage a Child to flee from a Bear and joyn to a Lyon? Verily the day is come, wherein there is no hiding place of safty for the Righteous, but purely in the Name of the Lord, and blessed are they that alone trust therein. For the help of the meek standeth in the Name of the Lord, (<hi>Psal.</hi> 124.8. <hi>Hos.</hi> 13.9.) And happy are they that abide in it, <hi>for the day will be terrible and dreadful unto all that have not a habitation in the Name of the Lord the King of Saints;</hi> For Violence and Oppression shall come to the full, and then shall the Lord Roar out of his Habitation, and he shall strike the Inhabi<g ref="char:EOLhyphen"/>tants of the Earth with Astonishment, and Faintnesse, and Deadnesse of Spirit, shall ceaze upon the mighty men, and weaknesse and fear up<g ref="char:EOLhyphen"/>on the strong and bold of the Earth, for the Lord will appear in his mighty Power to take the Kingdom, and to relieve the oppressed, and to help the needy, and they shall be strong in him.</p>
+            <p>Be wise therefore Oy <hi>Kings,</hi> and learn Wisdom ye <hi>Judges</hi> and Rulers of the Earth, Return unto the Lord &amp; serve him with fear, tremble before the Glory of his Presence, <hi>&amp; kisse the Son, least he be angry and you perish by the way;</hi> For his wroth shall suddenly burn, and then, <hi>blessed are all they that trust in Him,</hi> (Read <hi>Vsal.</hi>) Therefore strive not with the Lord any longer, by withholding his Right from Him, but give unto him his due, and re<g ref="char:EOLhyphen"/>sign
+<pb n="6" facs="tcp:44874:4"/>up to him and <hi>his Anoynted</hi> the things that he doth require, <hi>for the Lamb must get the victory,</hi> and he must have the Preheminence in all things, yea, he must be the <hi>Supream head in all Spiritual things,</hi> and the only Law-giver to his People; Yea, he with the higher Power must ordain and send forth <hi>Ministers,</hi> and <hi>Labourers</hi> into his <hi>Church, Vineyard,</hi> and <hi>Har<g ref="char:EOLhyphen"/>vest,</hi> for <hi>he only</hi> can fit them for the work, and not man; And he will take care that they shall not lack any thing, (<hi>Luke</hi> 22.35.) <hi>For the Earth is the Lords &amp; the fulnesse thereof, (Psal.</hi> 24.1.) And he will constrain people with his love (which is better then outward force) to give his Ministers food and Raiment when they have need thereof, and they will be contented there<g ref="char:EOLhyphen"/>withall, 1 <hi>Tim.</hi> 6.8. Therefore medle not with these things any more, I warn and exhort you in the Love of God: For it belongs not unto you, but unto God and Christ who are one, and let <hi>Christ only</hi> be acknowledg<g ref="char:EOLhyphen"/>ed to be <hi>the defender of the Faith,</hi> who is able to perform that office to the full <hi>which man is not.</hi>
+            </p>
+            <p>And let the one Law-giver be minded and owned in man, to give forth Lawes to punish transgressors, that so the Judgement may be the Lords and not mans, for so ought it to be, and he that ruleth over men, must be just, ruling in the fear of God, (2 <hi>Sam.</hi> 23.3.) And they that fear the Lord and hate Coveteousnesse ought to be Judges and Rulers, (<hi>Exod.</hi> 18.21.) To see and take care that the Law of God be put in due ex<g ref="char:EOLhyphen"/>ecution, Judging righteously, without respect to persons, (<hi>Prov.</hi> 24.23.) Doing to all men, as they would they should do unto them, keeping out of Bribes and gifts, that the eye may not be blinded, (<hi>Exod.</hi> 23.6, 7, 8.) <hi>And such Rulers as these, will the Lord set up and Honour,</hi> unto whom he will plainly shew his Righteous just Law, which he will have executed upon transgressors, and men shall be subject unto them for conscience sake, and they only shall be a terror to evil doers, and encouragers of them that do well, and they shall be gaurded with Righteousnesse, and the Lord shall blesse them with the dew of Heaven, and they shall send forth a good savour into the Earth, and then shall the Inhabitants of the Earth learn Righteousnesse; <hi>For Judgement shall run down as Water, and Righteousnesse as a mighty stream;</hi> for the Judgements of the Lord shall be rightly executed, and self-ends shall be denied; And then shall Praises, Dominion, Honour, and Obedience, and all that is the Lords, be yeild<g ref="char:EOLhyphen"/>ed unto <hi>Him the King of Saints; And vntil this come to passe, Gods Controversie shall not Cease;</hi> But there will be <hi>Breaking,</hi> and <hi>Overturning, Oppressing,</hi> and spoiling and <hi>Insnaring</hi> one of another, and they that come uppermost, and will not give unto the Lord his due, but set themselves <hi>in his Seat,</hi> what<g ref="char:EOLhyphen"/>soever words they professe, or let them appear never so strong in the arm of flesh, yet <hi>they shall be broken down with dishanour;</hi> And Plagues and <hi>Tor<g ref="char:EOLhyphen"/>ments,</hi>
+               <pb n="7" facs="tcp:44874:4"/>shall be the portion of the <hi>Hypocrite that bows to deceit;</hi> And <hi>Babylon</hi> must fall and perish, <hi>for strong is the Lord which judgeth her,</hi> (<hi>Rev.</hi> 18.8.) And in vain do men seek to establish themselves in that which the Lord is against, and wo <hi>will</hi> be unto them that are found in the State of <hi>Caperna<g ref="char:EOLhyphen"/>um</hi> and <hi>Edom,</hi> (Read <hi>Obediah</hi> 3.4. <hi>Mat.</hi> 11.<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.)</p>
+            <p>And <hi>now ye Rulers, Teachers, and People, remember you are warned,</hi> and it is in true love to your Soules and Bodies, therefore <hi>Repent</hi> whilest you have time left you, that you may be saved, though it be so as by fire; And speedily resigne up to the Lord, that which properly belongeth unto him, for verily the day dawneth apace, which shall <hi>reveale that man of sin more and more,</hi> who hath <hi>set himself in the seat and stead of God, whom the Lord shall consume with the Spirit of his Mouth, and abolish and destroy with the Brightnesse of his coming,</hi> (2 Thes. 2.3, 4, 5, 6, 7, 8.) And the day of the Lord shall even so come as a thief in the night, <hi>and when the wicked shall say peace and safty, then shall come upon them sudain destruction, even as the travel of a woman with Child,</hi> which by no means can be escaped, 1 <hi>Thes.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.2, 3.)</p>
+            <p>Be still <hi>O ye Saints</hi> of the most High God, keep clear of <hi>Babylon,</hi> take heed of being insnared by her, cleave not to her flatteryes in any wise, but <hi>follow the Lamb, whithersoever he leadeth you,</hi> and hold fast the word of his patience in the true Integrity of your hearts, that so ye may stand and indure the tryal to the end, and whatsoever you suffer for the Testi<g ref="char:EOLhyphen"/>mony of God, you shall have a full reward for it, <hi>if you faint not;</hi> This in the Word of the Lord, is unto you.</p>
+            <closer>
+               <dateline>
+                  <hi>Lambeth</hi> House, <date>the 28th. 4th. Moneth. 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Post-Script.</head>
+            <p>
+               <hi>ANd if I could write no more, yet this is the</hi> Testimony <hi>of Truth, to the</hi> Ru<g ref="char:EOLhyphen"/>lars, Teachers, and People <hi>of this present age (in what Nations soe<g ref="char:EOLhyphen"/>ver this may come) mark,</hi> you must all come to the Light of the Lord Je<g ref="char:EOLhyphen"/>sus Christ (the Lamb of God) <hi>who hath enlightened you, that with the Light you may come to see what is contrary to the mind and will of God, both in your</hi> Lawes, <hi>and</hi> Governments, <hi>and in the constitutions thereof, and in your</hi> Mini<g ref="char:EOLhyphen"/>stry,
+<pb n="8" facs="tcp:44874:5"/>
+               <hi>and</hi> Worship, <hi>and in the constitutions thereof, and in all your Conversati<g ref="char:EOLhyphen"/>ons; And that which you see with the light, to be contrary to the mind and will of God, (in any of these things before mentioned you must deny, and give it up to be consumed by the Spirit of Judgement and burning, and you must give your full consent that the</hi> Lamb of God (the Light of the World, <hi>the</hi> second Adam, <hi>the</hi> Lord from Heaven, <hi>the</hi> quickning Spirit <hi>who is one with the Eternal Father</hi>) <hi>may have the preheminence in all things; And that he may</hi> Rule in <hi>you all,</hi> over <hi>you all, and lead and</hi> guide <hi>you</hi> all <hi>in</hi> all <hi>things, before you can witnesse that Gods Controversie with you is fully come to an end; And all them of the Nations that are saved, must walk in the Light of the Lamb; Therefore let every particu<g ref="char:EOLhyphen"/>lar in their several stations, come to a true honest search speedily, and cast off, and deny that which the light will let you see that God is against, that so happily God may stay the mighty Judgement (which otherwise must come)</hi> which is nigh at the door, which shall sweep away the ungodly.</p>
+            <p>These are faithful and true sayings, and things which must shortly be fulfilled, <hi>therefore, blessed will every one be that will hear and obey the Counsel of the most High, for the day of the Lord draweth nigh.</hi>
+            </p>
+            <p>
+               <hi>And now ye Rulers, if ye resolve to build up that which God hath thrown down by an out-stretched Arm, and if you strive to establish your selves in that which Gods Controversie hath been, and yet is against, you will undoe your selves for ever, for you will engage the Lord against you, who assuredly will be too strong for you, and break and confound you, as opposers of his mighty work; Therefore take heed what you doe, the Lords decree shall stand.</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+         <div type="colophon">
+            <p>LONDON. Printed for <hi>Thomas Simmons,</hi> at the Signe of the Bull ar Mouth near <hi>Aldersgate.</hi> 1660.</p>
+            <pb facs="tcp:44874:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
